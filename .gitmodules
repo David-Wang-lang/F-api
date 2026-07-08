@@ -1,0 +1,6 @@
+[submodule "libs/F-sub1"]
+	path = libs/F-sub1
+	url = ../F-sub1
+[submodule "libs/F-sub2"]
+	path = libs/F-sub2
+	url = ../F-sub2
